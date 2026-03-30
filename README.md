@@ -12,6 +12,9 @@
 
 Unlike traditional iteration-based counting, Prime OS utilizes a verified theoretical grasp to provide answers with absolute certainty within its proven zones. This demo focuses on **verifiable refusal (safety-gated answers)**—demonstrating that a responsible system must prioritize its "Right to be Silent" over potentially erroneous output.
 
+🌐 GhostDrift Mathematical Institute (Official)
+[https://www.ghostdriftresearch.com/](https://www.ghostdriftresearch.com/)
+
 ## **💡 The "Silence" Philosophy: Responsibility Engineering**
 
 In the frontier of AI Accountability, the most critical feature is the ability to recognize the boundaries of knowledge.
